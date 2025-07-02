@@ -77,3 +77,10 @@ Criterios de Aceptación:
 Dado que soy administrador
 Cuando selecciono un rango de fechas
 Entonces el sistema muestra el total de reservas, huéspedes y habitaciones ocupadas
+ 
+Historia 9:Reportes clave para la gestión de toma de decisiones.a la hora de mis próximas reservas.reportes frecuentes:Ocupación diaria/semanal/mensual,Ingresos por día o por tipo de habitación,huéspedes frecuentes,servicios más utilizados,habitaciones más ocupadas.
+
+Servicios Adicionales:Gestión de cargos extras por otros servicios:spa/masajes,lavandería,excursiones,room service,gimnacio,Restaurante/bar       
+Como funciona:se encarga al huésped y se suman a su cuenta al momento de reservar.
+
+Cierre de sistema en un hotel:Finalizar las operaciones diarias y generar reportes,así como al cierre de turnos de trabajo,implica conciliar pagos,revisar la disponibilidad de habitaciones,reporte de caja,entre otras tareas.
